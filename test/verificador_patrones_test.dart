@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:loteria_dolorena/logica/verificador_patrones.dart';
+import 'package:loteria/logica/verificador_patrones.dart';
 
 void main() {
   test('detecta una linea horizontal completa', () {

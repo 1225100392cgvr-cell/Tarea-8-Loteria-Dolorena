@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:loteria_dolorena/logica/baraja.dart';
+import 'package:loteria/logica/baraja.dart';
 
 void main() {
   test('crearBarajaCompleta regresa exactamente 16 cartas', () {

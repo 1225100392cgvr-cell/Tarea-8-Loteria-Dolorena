@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:loteria_dolorena/logica/baraja.dart';
-import 'package:loteria_dolorena/logica/tabla.dart';
-import 'package:loteria_dolorena/logica/motor_juego.dart';
+import 'package:loteria/logica/baraja.dart';
+import 'package:loteria/logica/tabla.dart';
+import 'package:loteria/logica/motor_juego.dart';
 
 void main() {
   test('el motor detecta Loteria al completar una fila', () {
